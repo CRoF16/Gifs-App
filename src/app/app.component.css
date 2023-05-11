@@ -1,0 +1,7 @@
+.dflex {
+  display: flex;
+}
+
+.flex-fill {
+  flex: 1;
+}
